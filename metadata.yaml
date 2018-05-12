@@ -1,0 +1,33 @@
+_repo: Chinese-Diamonds-for-the-King-of-Kings_43514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43514-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Goforth, Rosalind
+    aliases:
+    - Goforth, Rosalind Bellsmith
+    - Goforth, Florence Rosalind Bellsmith
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '31749'
+    url: http://www.gutenberg.org/2009/agents/31749
+description: Born in England, Rosalind Goforth served as a missionary of the Presbyterian
+  church in China for decades, alongside her husband and children. This account of
+  her life and work details her family's struggle to bring a message of peace to China's
+  men, women, and children, as well as their triumphs and shortfalls as missionaries
+  and humanitarians.
+gutenberg_issued: '2013-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- China'
+- !lcc 'BV'
+title: Chinese Diamonds for the King of Kings
+url: http://www.gutenberg.org/ebooks/43514
